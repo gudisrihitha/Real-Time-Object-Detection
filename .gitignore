@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+detections.csv
+captured_frame.jpg
+runs/

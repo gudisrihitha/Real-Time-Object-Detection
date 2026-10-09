@@ -10,7 +10,7 @@ model = YOLO("yolov8n.pt")
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="sravanthi123",
+    password="ENTER YOUR PASSWORD",
     database="object_detection"
 )
 
